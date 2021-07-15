@@ -2,7 +2,7 @@ variable "resourceGroup" {
     type = string
 
 }  
-variable "localtion" {
+variable "location" {
   type = string
 }
 variable "tags" {
