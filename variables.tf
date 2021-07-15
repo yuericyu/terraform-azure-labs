@@ -26,3 +26,8 @@ variable "nsgname" {
   type = string
   
 }
+
+variable "pipname" {
+  type = string
+  
+}
