@@ -1,3 +1,3 @@
-resource "azurerm_resource_group" "myTerraformResourceGroup" {
-    
+resource "azurerm_resource_group" "ericTerraformResourceGroup" {
+
 }
