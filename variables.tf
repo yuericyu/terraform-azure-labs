@@ -13,7 +13,16 @@ variable "vnetname" {
   type = string
   
 }
-variable "sub_net1" {
+variable "subnet1" {
+  type = string
+  
+}
+variable "subnet2" {
+  type = string
+  
+}
+
+variable "nsgname" {
   type = string
   
 }
