@@ -4,7 +4,4 @@ resource "azurerm_public_ip" "ericPip" {
   location            = azurerm_resource_group.ericTerraformResourceGroup.location
   allocation_method   = "Static"
 
-  tags = {
-    environment = var.tags
-  }
 }
